@@ -2,3 +2,4 @@
 
 ## Projeto
 - [Estórias de Usuário](./projeto/estorias_usuario.md)
+- [Diagrama Caso de Uso](./projeto/diagrama_caso_de_uso.md)
