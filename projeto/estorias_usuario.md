@@ -4,4 +4,3 @@
 - US4. Como aluno, eu gostaria de, durante o período de matrícula, poder me matricular em matérias desde que possua créditos suficientes  
 - US5. Como aluno, eu gostaria de, durante o período de matrícula, poder me cancelar matrículas em matérias em que eu já esteja matriculado  
 - US6. Como aluno, eu gostaria de visualizar, ao final do período de matrícula, se as matérias que me matriculei foram canceladas ou não  
-teste
