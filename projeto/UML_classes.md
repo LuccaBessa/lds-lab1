@@ -1,1 +1,0 @@
-[Diagrama de classes UML](https://lucid.app/lucidchart/211ad53a-9769-4336-9909-956f44c5aa55/edit?viewport_loc=-25%2C39%2C1368%2C651%2CHWEp-vi-RSFO&invitationId=inv_468f3bd1-377e-4e9d-b277-430ac142fca2)

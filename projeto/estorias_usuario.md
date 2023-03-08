@@ -5,3 +5,6 @@
 - US5. Como aluno, eu gostaria de, durante o período de matrícula, poder me cancelar matrículas em matérias em que eu já esteja matriculado.  
 - US6. Como aluno, eu gostaria de visualizar, ao final do período de matrícula, se as matérias que me matriculei foram canceladas ou não.
 - US7. Como usuário do sistema, eu gostaria de poder me autenticar no sistema e realizar todas as ações disponíveis para o meu tipo de usuário.
+- US8. Como funcionário da secretaria, eu gostaria de poder cadastrar professores.
+- US9. Como funcionário da secretaria, eu gostaria de poder cadastrar alunos.
+- US10. Como funcionário da secretaria, eu gostaria de poder cadastrar disciplinas.
