@@ -8,3 +8,4 @@
 - US8. Como funcionário da secretaria, eu gostaria de poder cadastrar professores.
 - US9. Como funcionário da secretaria, eu gostaria de poder cadastrar alunos.
 - US10. Como funcionário da secretaria, eu gostaria de poder cadastrar disciplinas.
+- US11. Como funcionário da secretaria, eu gostaria de poder gerar currículos para diferentes cursos.
