@@ -1,18 +1,17 @@
 package Curso;
 
-import Disciplina.Disciplina;
+import java.io.Serializable;
+import java.util.ArrayList;
 
-public class Curso {
+public class Curso implements Serializable {
   private int id;
   private String nome;
-  private int creditos;
-  private Disciplina[] disciplinas;
+  private ArrayList<Integer> disciplinas;
   private int semestres;
 
-  public Curso(int id, String nome, int creditos, Disciplina[] disciplinas, int semestres) {
+  public Curso(int id, String nome, ArrayList<Integer> disciplinas, int semestres) {
     this.id = id;
     this.nome = nome;
-    this.creditos = creditos;
     this.disciplinas = disciplinas;
     this.semestres = semestres;
   }
@@ -33,19 +32,11 @@ public class Curso {
     return this.nome;
   }
 
-  public void setCreditos(int creditos) {
-    this.creditos = creditos;
-  }
-
-  public int getCreditos() {
-    return this.creditos;
-  }
-
-  public void setDisciplinas(Disciplina[] disciplinas) {
+  public void setDisciplinas(ArrayList<Integer> disciplinas) {
     this.disciplinas = disciplinas;
   }
 
-  public Disciplina[] getDisciplinas() {
+  public ArrayList<Integer> getDisciplinas() {
     return this.disciplinas;
   }
 
